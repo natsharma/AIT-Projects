@@ -1,5 +1,5 @@
 # AIT Projects
-### Contains 2 of my projects. One of the projects is a recreation of the Yelp Website. The 2nd project contains 2 websites called Bands and Colors. 
+Contains 2 of my projects. One of the projects is a recreation of the Yelp Website. The 2nd project contains 2 websites called Bands and Colors. 
 Searches through or updates a database of music bands. The other website plays with RGB data. 
 
 
